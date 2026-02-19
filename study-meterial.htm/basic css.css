@@ -1,0 +1,33 @@
+..basic{
+color:blue;
+background-color:red;
+text-align:center;
+font-size: 10px;
+font-family: Arial;
+font-weight: bold;
+text-decoration: none; /*underlind delet*/
+list-style-type: none;/*list style deete*/
+
+
+}
+.nav{
+
+    justify-content:space-between;
+    display: flex;
+    display:block;
+    display:grid;
+    grid-area: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+
+}
+.header{
+
+    /* Basic html design part*/
+
+
+}
+.footer{
+
+    /* last part of the web page*/
+}
